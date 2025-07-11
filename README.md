@@ -16,6 +16,6 @@
 
 ## ✨ Frase motivacional
 
-> “💡 *Haz que cada hellow wordl en tu codigo valga la pena .*”
+> “💡 *Haz que cada hello wordl en tu codigo valga la pena .*”
 
 ---
