@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 ¡Hola, mundo! Soy Samuel 😄
 
-<!--
-**Samuel-Inchauste/Samuel-Inchauste** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudiante de Ingeniería de Sistemas  
+📍 Desde Bolivia 🇧🇴  
+🌱 Aprendiendo cada día algo nuevo sobre tecnología, programación y vida.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun
---> a
+## 🚀 Sobre mí
+
+- 💻 Me encanta sobre pensar problemas con soluciones sencillas 
+- 🧠 Apasionado por saber que hacer cuando estoy desocupado 
+- 🤝 Siempre dispuesto a colaborar en proyectos interesantes.
+
+---
+
+## ✨ Frase motivacional
+
+> “💡 *Haz que cada hellow wordl en tu codigo valga la pena .*”
+
+---
